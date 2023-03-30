@@ -1,0 +1,121 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+     margin: 3% 4%;
+ }
+ 
+ .border{
+     
+     border-style: solid;
+     padding: 10px;
+     margin: 10px auto;
+     
+ }
+
+ .child-container{
+     width: 100%;
+    
+ }
+ 
+ .colormustard{
+     display: inline-block;
+     background-color: #FFD44D;
+     text-align: center;
+     
+     width: 32%;
+     margin: 20px auto;
+     min-height: 100px
+     
+ }
+ .colorbittersweet{
+     display: inline-block;
+     background-color: #FA7366;
+     text-align: center;
+     
+       width: 32%;
+     margin: 20px auto;
+     min-height: 100px
+  
+     
+ }
+ .colorslateblue{
+     display: inline-block;
+     background-color: #8858FF;
+     text-align: center;
+     width: 32%;
+     margin: 20px auto;
+     min-height: 100px
+  
+     
+ }
+ .colorCeleste{
+     display: inline-block;
+     background-color: #A8FFF6;
+     text-align: center;
+     width: 32%;
+     margin: 20px auto;
+     min-height: 100px
+     
+     
+     
+ }
+ .colorgoldenrod{
+     display: inline-block;
+     background-color: #EFFFC9;
+     text-align: center;
+     width: 32%;
+     margin: 20px auto;
+     min-height: 100px
+     
+ }
+
+ .sourcecodepro{
+    display:inline-block;
+    width: 45%;
+}
+  
+  .Poppins{
+    display: inline-block;
+}
+  
+  .NunitoSans {
+   display:inline;
+  }
+
+  .sourceunderline{
+   text-decoration: underline;
+   font-family: 'Source Code Pro', monospace;
+   font-size: 30px;
+  }
+
+.poppinsunderline{
+  text-decoration: underline;
+   font-family: 'Poppin', sans-serif;
+   font-size: 30px;
+}
+
+.nunitosansunderline{
+ text-decoration: underline;
+ font-family: 'Nunito Sans', sans-serif;
+ font-size: 30px;
+ 
+}
+
+.regular{
+    font-style: normal;
+    text-decoration: none;
+    
+    
+   
+  }
+  .vivid{
+    font-weight: bold;
+    text-decoration: none;
+    
+  }
+  
+  .pica{
+   font-style: italic;
+   text-decoration: none;
+  
+   
+  }
